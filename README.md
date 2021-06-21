@@ -1,6 +1,6 @@
 # cognitoreactlogin
 
-Git clone  https://github.com/charlanalves/cognitoreactlogin.git
+git clone  https://github.com/charlanalves/cognitoreactlogin.git
 
 cd cognitoreactlogin
 
